@@ -3,7 +3,7 @@ FInal Project for W209 Data Visualization course
 
 ## Overview
 
-Gaurav Khanna, Renzee Reyes and Sullivan Swift created this tool to explore the data of a Brazilian E-Commerce comapny, Olist Store. The data, available here, spans from 2016 to 2018 and contains the variables shown below. The goal of this report is to enable executives, business managers, and finance managers to improve business practices and operations.
+Gaurav Khanna, Renzee Reyes and Sullivan Swift created this interactive reporting tool to explore the data of a Brazilian E-Commerce company, Olist Store. The data, [available here](https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_orders_dataset.csv), spans from 2016 to 2018 and contains the variables shown below. The goal of this report is to enable executives, business managers, and finance managers to improve business practices and operations.
 
 ![Data Schema](assets/schema.png)
 
