@@ -5,6 +5,8 @@ FInal Project for W209 Data Visualization course
 
 Gaurav Khanna, Renzee Reyes and Sullivan Swift created this tool to explore the data of a Brazilian E-Commerce comapny, Olist Store. The data, available here, spans from 2016 to 2018 and contains the variables shown below. The goal of this report is to enable executives, business managers, and finance managers to improve business practices and operations.
 
+![Data Schema](assets/schema.png)
+
 ## Link to Hosted Version
 
 A live version of this tool is hosted here:
