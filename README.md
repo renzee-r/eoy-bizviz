@@ -10,6 +10,7 @@ Gaurav Khanna, Renzee Reyes and Sullivan Swift created this interactive reportin
 ## Link to Hosted Version
 
 A live version of this tool is hosted here:
+http://people.ischool.berkeley.edu/~renzeer/w209-final/
 
 ## Instructions for Local Version
 
